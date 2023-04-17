@@ -12,5 +12,5 @@ To ensure that the functions were developed correctly, we use tests to validate 
 - **Project description**: The object proposed here is to solve two common challenges of code interviews for programmers, like Fibonacci and now involving recursive problems.
 We were encouraged to use the ChatGPT tool to help us solve the challenges and to support the learning journey.
 To ensure that the functions were developed correctly, we use tests to validate the applied logic.
-- The explanation in video: [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)]()
+- The explanation in video: [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/f645b35a6a1b453f8f61c8b588e2182d)
 
