@@ -21,7 +21,7 @@ To ensure that the functions were developed correctly, we use tests to validate 
 
 Network assortivity is a fundamental property that describes the tendency of network nodes to connect to other nodes with similar characteristics. This property influences the structure and dynamics of networks and is an active area of research in network science.
 
-With this, the assortativity coefficient was calculated based on a given attribute of the node, obtaining a value of approximately 0.37, which indicates the assortativity of the network, provided it is positive.
+By calculating the assortativity coefficient using a specific node attribute, a value of approximately 0.37 was obtained. This positive value indicates the presence of assortativity in the network, implying that nodes with similar attributes tend to connect with each other.
 
 **Análise Bivariada**
 
