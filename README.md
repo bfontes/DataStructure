@@ -15,7 +15,7 @@ To ensure that the functions were developed correctly, we use tests to validate 
 - The explanation in video: [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/f645b35a6a1b453f8f61c8b588e2182d)
 
 **Week 10** - Small words(analysis about the fligthts in Brazil)
-- **Project description**: This work aims to use the subjects studied as assortativity, bivariate analysis, connected components and clustering coefficient to analyze the connections between flights in Brazil. In this sense, we carried out the 5 proposed questions of the activity, with the collaboration of [Vilson Rodrigues](https://github.com/Vilsonrodrigues) and data from [Alvaro](https://github.com/alvarofpp/dataset-flights -Brazil).
+- **Project description**: This work aims to use the subjects studied as assortativity, bivariate analysis, connected components and clustering coefficient to analyze the connections between flights in Brazil. In this sense, we carried out the 5 proposed questions of the activity, with the collaboration of [Vilson Rodrigues](https://github.com/Vilsonrodrigues) and data from [Alvaro](https://github.com/alvarofpp/dataset-flights-Brazil).
 
 - The link to GitHub repository: [Github - dataset_flights_brazil](https://github.com/bfontes/network_fligths_brazil)
 
